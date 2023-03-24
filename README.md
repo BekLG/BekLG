@@ -53,6 +53,15 @@
 <br/>  
 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekLG&hide_border=true&layout=compact" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BekLG&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+ 
+
+  
 ## Connect with me  
 <div id="badges">   <a href="https://www.linkedin.com/in/bereket-legesse-030916238">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -69,29 +78,9 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekLG&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BekLG&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
